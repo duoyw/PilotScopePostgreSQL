@@ -1,0 +1,5 @@
+# pilotscope extension
+comment = 'pilotscope extension'
+default_version = '0.1'
+module_pathname = '$libdir/pilotscope'
+relocatable = true
